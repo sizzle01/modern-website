@@ -572,3 +572,5 @@
 [0531/162817.532:ERROR:crash_report_database_win.cc(428)] unexpected header
 [0531/164317.532:ERROR:crash_report_database_win.cc(428)] unexpected header
 [0606/061214.603:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0113/122241.085:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0113/135058.098:ERROR:crash_report_database_win.cc(455)] unexpected header
